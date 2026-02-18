@@ -8,13 +8,12 @@
 
 - 🌱 I’m currently learning **Frameworks,courses etc**
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles 
 
-- 💬 Ask me about **react,vue and asap**
+- 💬 Ask me about ** React, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion.**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [resume link](https://mdtohid.vercel.app)
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
